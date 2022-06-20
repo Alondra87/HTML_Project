@@ -1,29 +1,36 @@
 html {
-    font-size: 22px
- }
- body{
-    background-color: rgb(229, 247, 229);
-    color: black;
-    position: center;
-    margin-left: 90px ;
-    margin-right: 90px;
- }
- a {
-     color:yellowgreen;
- }
+  font-size: 22px;
+}
 
- a:visited {
-     color: green;
- }
+body {
+  background-color: rgb(229, 247, 229);
+  color: black;
+  position: center;
+  margin-left: 90px;
+  margin-right: 90px;
+}
 
- a:hover, a:active{
-     color:gray;
- }
+a {
+  color: yellowgreen;
+}
 
- table, tr, th, td, caption{
-     border: 1px solid black;
-     font-family: 'Courier New', Courier, monospace;
-     border-collapse: collapse;
-     padding: 0.5rem;
-     background-color: rgb(250, 249, 249);
-    }
+a:visited {
+  color: green;
+}
+
+a:hover,
+a:active {
+  color: gray;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+  border: 1px solid black;
+  font-family: 'Courier New', Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+  background-color: rgb(250, 249, 249);
+}
