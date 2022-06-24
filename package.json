@@ -1,0 +1,27 @@
+{
+  "name": "html_project",
+  "version": "1.0.0",
+  "description": "> This project is about a website for Little Vegan Shop, made using the knowledge I have gained from the HTML for Beginners tutorial series.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alondra87/HTML_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alondra87/HTML_Project/issues"
+  },
+  "homepage": "https://github.com/Alondra87/HTML_Project#readme",
+  "devDependencies": {
+    "hint": "^6.2.0",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
